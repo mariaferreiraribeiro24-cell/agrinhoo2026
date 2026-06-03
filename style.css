@@ -3,18 +3,18 @@
    ========================================================================== */
 :root {
     /* Paleta Oficial Requerida */
-    --color-blue: #0A2540;
-    --color-white: #FFFFFF;
+    --color-blue: #400a32;
+    --color-white: #ffffff;
     --color-sky-blue: #00D4FF;
     --color-metallic-blue: #1E3A8A;
-    --color-green: #10B981;
-    --color-yellow: #FBBF24;
-    --color-gold: #D97706;
+    --color-green: #b91029;
+    --color-yellow: #12be85;
+    --color-gold: #002a68;
     --color-black: #0F172A;
 
     /* Variações de Fundo/Semânticas baseadas na Paleta */
-    --bg-light: #F8FAFC;
-    --bg-dark: #070D19;
+    --bg-light: #faf8fc;
+    --bg-dark: #3d65b5;
     --text-main: #1E293B;
     --text-muted: #64748B;
     --border-color: #E2E8F0;
